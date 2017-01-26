@@ -1,0 +1,36 @@
+{
+  "name": "prop-env",
+  "version": "0.0.0",
+  "description": "Getter and Setter 'process.env' variable from '.env' file",
+  "license": "MIT",
+  "repository": "iguntur/prop-env",
+  "author": {
+    "name": "Guntur Poetra",
+    "email": "poetra.guntur@gmail.com",
+    "url": "http://iguntur.starmediateknik.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "env",
+    "environment",
+    "process",
+    "process.env",
+    "variable"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
