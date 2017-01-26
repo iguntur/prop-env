@@ -1,6 +1,6 @@
 {
   "name": "prop-env",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Getter and Setter 'process.env' variable from '.env' file",
   "license": "MIT",
   "repository": "iguntur/prop-env",
